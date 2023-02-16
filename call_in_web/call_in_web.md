@@ -26,6 +26,11 @@ SIP 서버: 클라이언트 간의 연결을 관리, SIP 요청과 응답 메시
 
 SPI는 다른프로토콜과의 연동이 쉬움
 
+PSTN(Public Switched Telephone Network) 게이트웨이를 이용하여 WebRTC 연결을 PSTN으로 연결시켜 일반 전화망으로 전화 가
+
+WebRTC-3GPP 연동
+
+3GPP(Third Generation Partnership Project) 는 모바일 통신 표준을 제정하는 단체, WebRTC와 연동항 모바일단말에서 일반 전화망으로 전화 가능
 
 * javascript
 ```
